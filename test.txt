@@ -1,2 +1,3 @@
  hi hello is isMca
+ defined getDevice()
 
